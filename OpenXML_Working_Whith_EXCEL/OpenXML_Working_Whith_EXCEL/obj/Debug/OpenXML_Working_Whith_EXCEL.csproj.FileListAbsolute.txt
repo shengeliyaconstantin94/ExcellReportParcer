@@ -1,0 +1,38 @@
+C:\Users\Shengeliya.K\Documents\Приложения\OpenXML_Working_Whith_EXCEL\OpenXML_Working_Whith_EXCEL\bin\Debug\OpenXML_Working_Whith_EXCEL.exe.config
+C:\Users\Shengeliya.K\Documents\Приложения\OpenXML_Working_Whith_EXCEL\OpenXML_Working_Whith_EXCEL\bin\Debug\OpenXML_Working_Whith_EXCEL.exe
+C:\Users\Shengeliya.K\Documents\Приложения\OpenXML_Working_Whith_EXCEL\OpenXML_Working_Whith_EXCEL\bin\Debug\OpenXML_Working_Whith_EXCEL.pdb
+C:\Users\Shengeliya.K\Documents\Приложения\OpenXML_Working_Whith_EXCEL\OpenXML_Working_Whith_EXCEL\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Shengeliya.K\Documents\Приложения\OpenXML_Working_Whith_EXCEL\OpenXML_Working_Whith_EXCEL\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Shengeliya.K\Documents\Приложения\OpenXML_Working_Whith_EXCEL\OpenXML_Working_Whith_EXCEL\bin\Debug\System.IO.Packaging.dll
+C:\Users\Shengeliya.K\Documents\Приложения\OpenXML_Working_Whith_EXCEL\OpenXML_Working_Whith_EXCEL\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Shengeliya.K\Documents\Приложения\OpenXML_Working_Whith_EXCEL\OpenXML_Working_Whith_EXCEL\obj\Debug\OpenXML_Working_Whith_EXCEL.csprojAssemblyReference.cache
+C:\Users\Shengeliya.K\Documents\Приложения\OpenXML_Working_Whith_EXCEL\OpenXML_Working_Whith_EXCEL\obj\Debug\OpenXML_Working_Whith_EXCEL.csproj.CoreCompileInputs.cache
+C:\Users\Shengeliya.K\Documents\Приложения\OpenXML_Working_Whith_EXCEL\OpenXML_Working_Whith_EXCEL\obj\Debug\OpenXML_Working_Whith_EXCEL.csproj.CopyComplete
+C:\Users\Shengeliya.K\Documents\Приложения\OpenXML_Working_Whith_EXCEL\OpenXML_Working_Whith_EXCEL\obj\Debug\OpenXML_Working_Whith_EXCEL.exe
+C:\Users\Shengeliya.K\Documents\Приложения\OpenXML_Working_Whith_EXCEL\OpenXML_Working_Whith_EXCEL\obj\Debug\OpenXML_Working_Whith_EXCEL.pdb
+C:\Users\Shengeliya.K\Documents\Приложения\OpenXML_Working_Whith_EXCEL\OpenXML_Working_Whith_EXCEL\bin\Debug\NLog.dll
+C:\Users\Shengeliya.K\Documents\Приложения\OpenXML_Working_Whith_EXCEL\OpenXML_Working_Whith_EXCEL\bin\Debug\NLog.xml
+C:\Users\Shengeliya.K\Documents\Приложения\OpenXML_Working_Whith_EXCEL\OpenXML_Working_Whith_EXCEL\bin\Debug\ClosedXML.dll
+C:\Users\Shengeliya.K\Documents\Приложения\OpenXML_Working_Whith_EXCEL\OpenXML_Working_Whith_EXCEL\bin\Debug\ExcelNumberFormat.dll
+C:\Users\Shengeliya.K\Documents\Приложения\OpenXML_Working_Whith_EXCEL\OpenXML_Working_Whith_EXCEL\bin\Debug\FastMember.dll
+C:\Users\Shengeliya.K\Documents\Приложения\OpenXML_Working_Whith_EXCEL\OpenXML_Working_Whith_EXCEL\bin\Debug\ClosedXML.pdb
+C:\Users\Shengeliya.K\Documents\Приложения\OpenXML_Working_Whith_EXCEL\OpenXML_Working_Whith_EXCEL\bin\Debug\ClosedXML.xml
+C:\Users\Shengeliya.K\Documents\Приложения\OpenXML_Working_Whith_EXCEL\OpenXML_Working_Whith_EXCEL\bin\Debug\ExcelNumberFormat.xml
+C:\Users\Чижова\Desktop\OpenXML_Working_Whith_EXCEL (1)\OpenXML_Working_Whith_EXCEL\OpenXML_Working_Whith_EXCEL\bin\Debug\OpenXML_Working_Whith_EXCEL.exe.config
+C:\Users\Чижова\Desktop\OpenXML_Working_Whith_EXCEL (1)\OpenXML_Working_Whith_EXCEL\OpenXML_Working_Whith_EXCEL\obj\Debug\OpenXML_Working_Whith_EXCEL.exe
+C:\Users\Чижова\Desktop\OpenXML_Working_Whith_EXCEL (1)\OpenXML_Working_Whith_EXCEL\OpenXML_Working_Whith_EXCEL\obj\Debug\OpenXML_Working_Whith_EXCEL.pdb
+C:\Users\Чижова\Desktop\OpenXML_Working_Whith_EXCEL (1)\OpenXML_Working_Whith_EXCEL\OpenXML_Working_Whith_EXCEL\bin\Debug\OpenXML_Working_Whith_EXCEL.exe
+C:\Users\Чижова\Desktop\OpenXML_Working_Whith_EXCEL (1)\OpenXML_Working_Whith_EXCEL\OpenXML_Working_Whith_EXCEL\bin\Debug\OpenXML_Working_Whith_EXCEL.pdb
+C:\Users\Чижова\Desktop\OpenXML_Working_Whith_EXCEL (1)\OpenXML_Working_Whith_EXCEL\OpenXML_Working_Whith_EXCEL\bin\Debug\ClosedXML.dll
+C:\Users\Чижова\Desktop\OpenXML_Working_Whith_EXCEL (1)\OpenXML_Working_Whith_EXCEL\OpenXML_Working_Whith_EXCEL\bin\Debug\DocumentFormat.OpenXml.dll
+C:\Users\Чижова\Desktop\OpenXML_Working_Whith_EXCEL (1)\OpenXML_Working_Whith_EXCEL\OpenXML_Working_Whith_EXCEL\bin\Debug\ExcelNumberFormat.dll
+C:\Users\Чижова\Desktop\OpenXML_Working_Whith_EXCEL (1)\OpenXML_Working_Whith_EXCEL\OpenXML_Working_Whith_EXCEL\bin\Debug\FastMember.dll
+C:\Users\Чижова\Desktop\OpenXML_Working_Whith_EXCEL (1)\OpenXML_Working_Whith_EXCEL\OpenXML_Working_Whith_EXCEL\bin\Debug\NLog.dll
+C:\Users\Чижова\Desktop\OpenXML_Working_Whith_EXCEL (1)\OpenXML_Working_Whith_EXCEL\OpenXML_Working_Whith_EXCEL\bin\Debug\System.IO.FileSystem.Primitives.dll
+C:\Users\Чижова\Desktop\OpenXML_Working_Whith_EXCEL (1)\OpenXML_Working_Whith_EXCEL\OpenXML_Working_Whith_EXCEL\bin\Debug\System.IO.Packaging.dll
+C:\Users\Чижова\Desktop\OpenXML_Working_Whith_EXCEL (1)\OpenXML_Working_Whith_EXCEL\OpenXML_Working_Whith_EXCEL\bin\Debug\ClosedXML.pdb
+C:\Users\Чижова\Desktop\OpenXML_Working_Whith_EXCEL (1)\OpenXML_Working_Whith_EXCEL\OpenXML_Working_Whith_EXCEL\bin\Debug\ClosedXML.xml
+C:\Users\Чижова\Desktop\OpenXML_Working_Whith_EXCEL (1)\OpenXML_Working_Whith_EXCEL\OpenXML_Working_Whith_EXCEL\bin\Debug\DocumentFormat.OpenXml.xml
+C:\Users\Чижова\Desktop\OpenXML_Working_Whith_EXCEL (1)\OpenXML_Working_Whith_EXCEL\OpenXML_Working_Whith_EXCEL\bin\Debug\ExcelNumberFormat.xml
+C:\Users\Чижова\Desktop\OpenXML_Working_Whith_EXCEL (1)\OpenXML_Working_Whith_EXCEL\OpenXML_Working_Whith_EXCEL\bin\Debug\NLog.xml
+C:\Users\Чижова\Desktop\OpenXML_Working_Whith_EXCEL (1)\OpenXML_Working_Whith_EXCEL\OpenXML_Working_Whith_EXCEL\obj\Debug\OpenXML_Working_Whith_EXCEL.csprojResolveAssemblyReference.cache
